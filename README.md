@@ -5,6 +5,7 @@
 - 📫 How to reach me 201900568@student.polytechnic.bh
 - 😄 Pronouns: bro?
 - ⚡ Fun fact: nothing...
+thats all
 
 <!---
 Ali4lqassab/Ali4lqassab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
